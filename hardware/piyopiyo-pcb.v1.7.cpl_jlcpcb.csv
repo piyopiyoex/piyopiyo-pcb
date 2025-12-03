@@ -1,0 +1,34 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,50.515,50.2375,-90.0,top
+C10,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,40.915,14.559,180.0,top
+C11,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,94.0,13.1775,90.0,top
+C12,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,68.6275,50.0225,180.0,top
+C13,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,55.46,16.0,180.0,top
+C14,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,67.26,40.59,90.0,top
+C15,47u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,67.49,35.51,-90.0,top
+C2,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,50.505,46.7425,90.0,top
+C3,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,65.426,40.608935,90.0,top
+C4,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,65.426,35.5825,-90.0,top
+C5,1000P,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,30.501,12.955,-90.0,top
+C6,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,33.676,12.955,90.0,top
+C7,1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,30.501,23.115,90.0,top
+C8,4.7u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,33.676,23.115,90.0,top
+C9,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,47.83,24.1575,90.0,top
+J12,GROVE TX/RX,NS-Tech_Grove_1x04_P2mm_Vertical,13.0,46.5,-90.0,top
+J3,Conn_01x14_Socket,PinSocket_1x14_P2.54mm_Vertical,97.25,27.99,0.0,top
+R1,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,30.501,18.035,-90.0,top
+R2,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,33.676,18.035,90.0,top
+R3,47K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,37.035,18.035,-90.0,top
+R4,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,44.09,15.5,-90.0,top
+R5,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,45.995,15.5,-90.0,top
+R9,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,82.0,19.5875,90.0,top
+REF**,hole_m3,hole_m3,63.92,18.03,0.0,top
+REF**,hole_m3,hole_m3,86.68,52.23,0.0,top
+REF**,hole_m3,hole_m3,22.5,39.7,0.0,top
+REF**,hole_m3,hole_m3,22.5,4.7,0.0,top
+REF**,hole_m3,hole_m3,22.5,20.7,0.0,top
+REF**,hole_m3,hole_m3,96.0,52.75,0.0,top
+REF**,hole_m3,hole_m3,22.5,44.7,0.0,top
+REF**,hole_m3,hole_m3,4.0,3.25,0.0,top
+REF**,hole_m3,hole_m3,4.0,52.75,0.0,top
+REF**,hole_m3,hole_m3,96.0,3.25,0.0,top

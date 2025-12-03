@@ -1,0 +1,33 @@
+Comment,Designator,Footprint,LCSC,Quantity
+0.1u,"C3,C4,C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663,3
+1000P,C5,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1588,1
+10K,"R1,R2,R4,R5,R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804,5
+10u,"C1,C10,C11,C12,C13,C14,C2,C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19702,8
+1u,C7,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849,1
+4.7u,C8,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19666,1
+47K,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25819,1
+47u,C15,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C16780,1
+AZ1117CH-3.3TRG1,U2,SOT-223,C92102,1
+Conn_01x14_Socket,J3,PinSocket_1x14_P2.54mm_Vertical,,1
+DNP,R6,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+SW_D7,SW3,TVGP01-G73BB,,1
+DNP,R8,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+LCD SD 4P,J6,PinSocket_1x04_P2.54mm_Vertical,,1
+NJM2113M-ND,U3,NJR-DMP8_NJR,,1
+DNP,R7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+SW_D3,SW1,TVGP01-G73BB,,1
+SP_EN(D3),J8,PinHeader_1x03_P2.54mm_Vertical,,1
+POWER,J1,PinHeader_1x04_P2.54mm_Horizontal,,1
+UGSM23A,LS1,UGSM23A,,1
+SW_D9,SW2,TVGP01-G73BB,,1
+SD_CS,J7,PinHeader_1x02_P2.54mm_Vertical,,1
+XIAO-ESP32S3,U1,MOUDLE14P-SMD-2.54-21X17.8MM-S3,,1
+GROVE I2C,J5,NS-Tech_Grove_1x04_P2mm_Vertical,,1
+10K,RV1,"Potentiometer_ACP_CA6-H2,5_Horizontal",,1
+1.9 LCD 7P,J2,PinSocket_1x07_P2.54mm_Vertical,,1
+BL_EN(D3),J10,PinHeader_1x02_P2.54mm_Vertical,,1
+SW_EN(D3),J9,PinHeader_1x02_P2.54mm_Vertical,,1
+LCD_DIN,J11,PinHeader_1x02_P2.54mm_Vertical,,1
+PIR,J4,NS-Tech_Grove_1x04_P2mm_Vertical,,1
+hole_m3,REF**,hole_m3,,1
+GROVE TX/RX,J12,NS-Tech_Grove_1x04_P2mm_Vertical,,1
