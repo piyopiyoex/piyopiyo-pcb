@@ -16,3 +16,9 @@ Piyopiyo PCB は、Elixir 初学者コミュニティ
 <p align="center">
   <img src="./media/piyopiyo-pcb-v1.6-pcb-only.png" alt="Piyopiyo PCB bare board" width="320">
 </p>
+
+## Attribution & Licensing
+
+- ハードウェア設計（`hardware/`）: [kurokouji](https://github.com/kurokouji)
+- `hardware/` は CERN-OHL-P-2.0、`manuals/` / `media/` / `.md` は原則 CC BY 4.0
+- ライセンスの詳細: [`LICENSE.md`](./LICENSE.md)
