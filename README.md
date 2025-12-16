@@ -1,6 +1,6 @@
 # Piyopiyo PCB
 
-Piyopiyo PCB は、Elixir 初学者コミュニティ
+Piyopiyo PCB は、Elixir 入門者コミュニティ
 [piyopiyo.ex](https://piyopiyoex.connpass.com/) のためのオリジナル基板です。
 ワークショップや自習で扱いやすく、回路やソフトウェアも後から読み解きやすい構成を目指しています。
 
