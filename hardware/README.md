@@ -21,3 +21,9 @@
 
 - `reference/`
   搭載モジュールなどの参考資料
+
+## License & Attribution
+
+このディレクトリのハードウェア設計データは kurokouji により作成されました。
+
+ライセンスの詳細は [`LICENSE.md`](../LICENSE.md) を参照してください。
