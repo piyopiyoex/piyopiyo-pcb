@@ -7,7 +7,7 @@
 - `piyopiyo-pcb-vX.Y-assembled.png`  
   部品を実装した基板の写真
 
-- `piyopiyo-pcb-vX.Y-pcb-only.png`  
+- `piyopiyo-pcb-vX.Y-pcb.png`  
   裸基板のみの写真
 
 どの版の写真かは、ファイル名の `vX.Y` で判別します。

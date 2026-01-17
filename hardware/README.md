@@ -4,25 +4,23 @@
 
 主な内容は次のとおりです。
 
-- `piyopiyo-pcb.vX.Y.pdf`
-  回路図・基板レイアウトの PDF
+```text
+hardware/
+├── vX.Y/                         # バージョンごとの設計データ一式
+│   ├── kicad/                    # KiCad プロジェクト一式（.kicad_pro/.kicad_sch/.kicad_pcb 等）
+│   │   └── piyopiyo-pcb-vX.Y/    # プロジェクトフォルダ（フットプリント/ライブラリ含む）
+│   ├── fab/
+│   │   └── jlcpcb/               # JLCPCB 向け製造データ
+│   │       ├── bom.csv           # 部品表（LCSC Part # を含む）
+│   │       ├── cpl.csv           # 部品実装位置（Pick & Place）
+│   │       └── gerber.zip        # 基板製造用 Gerber 一式
+│   └── docs/
+│       └── piyopiyo-pcb.pdf      # 回路図・基板レイアウトの PDF 出力
+├── reference/                    # モジュール寸法などの参考資料
+└── CHANGELOG.md                  # バージョン間の変更履歴
+```
 
-- `piyopiyo-pcb.vX.Y.bom.xlsx`
-  部品表（人間が読む用）
-
-- `piyopiyo-pcb.vX.Y.bom_jlcpcb.csv` / `piyopiyo-pcb.vX.Y.cpl_jlcpcb.csv`
-  JLCPCB 向けの BOM / CPL
-
-- `piyopiyo-pcb.vX.Y.gerber.zip`
-  基板製造用 Gerber 一式
-
-- `kicad/`
-  KiCad プロジェクト一式
-
-- `reference/`
-  搭載モジュールなどの参考資料
-
-## License & Attribution
+## ライセンスと帰属
 
 このディレクトリのハードウェア設計データは kurokouji により作成されました。
 
